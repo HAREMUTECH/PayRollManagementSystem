@@ -1,0 +1,17 @@
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\bin\Debug\net6.0\PayRoll.Infrastructure.deps.json
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\bin\Debug\net6.0\PayRoll.Infrastructure.dll
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\bin\Debug\net6.0\PayRoll.Infrastructure.pdb
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\bin\Debug\net6.0\PayRoll.Application.dll
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\bin\Debug\net6.0\PayRoll.Domain.dll
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\bin\Debug\net6.0\PayRoll.Application.pdb
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\bin\Debug\net6.0\PayRoll.Domain.pdb
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\obj\Debug\net6.0\PayRoll.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\obj\Debug\net6.0\PayRoll.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\obj\Debug\net6.0\PayRoll.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\obj\Debug\net6.0\PayRoll.Infrastructure.AssemblyInfo.cs
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\obj\Debug\net6.0\PayRoll.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\obj\Debug\net6.0\PayRoll.Infrastructure.csproj.CopyComplete
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\obj\Debug\net6.0\PayRoll.Infrastructure.dll
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\obj\Debug\net6.0\refint\PayRoll.Infrastructure.dll
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\obj\Debug\net6.0\PayRoll.Infrastructure.pdb
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Infrastructure\obj\Debug\net6.0\ref\PayRoll.Infrastructure.dll

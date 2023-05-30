@@ -1,0 +1,12 @@
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Domain\bin\Debug\net6.0\PayRoll.Domain.deps.json
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Domain\bin\Debug\net6.0\PayRoll.Domain.dll
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Domain\bin\Debug\net6.0\PayRoll.Domain.pdb
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Domain\obj\Debug\net6.0\PayRoll.Domain.csproj.AssemblyReference.cache
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Domain\obj\Debug\net6.0\PayRoll.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Domain\obj\Debug\net6.0\PayRoll.Domain.AssemblyInfoInputs.cache
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Domain\obj\Debug\net6.0\PayRoll.Domain.AssemblyInfo.cs
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Domain\obj\Debug\net6.0\PayRoll.Domain.csproj.CoreCompileInputs.cache
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Domain\obj\Debug\net6.0\PayRoll.Domain.dll
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Domain\obj\Debug\net6.0\refint\PayRoll.Domain.dll
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Domain\obj\Debug\net6.0\PayRoll.Domain.pdb
+C:\Users\abdulhamiid\Documents\Muiz\PayRollSystem\PayRoll.Domain\obj\Debug\net6.0\ref\PayRoll.Domain.dll
