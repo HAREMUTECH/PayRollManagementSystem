@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PayRollSystem/FileContentIndex/03acd536-7b18-4897-afdc-906afca1577a.vsidx
+/.vs/PayRollSystem/FileContentIndex/03acd536-7b18-4897-afdc-906afca1577a.vsidx
+/PayRoll.Application/obj/Debug/net6.0/PayRoll.Application.assets.cache
+/PayRoll.Application/obj/Debug/net6.0/PayRoll.Application.csproj.AssemblyReference.cache
+/PayRoll.Application/obj/Debug/net6.0/PayRoll.Application.GeneratedMSBuildEditorConfig.editorconfig
+/PayRoll.Application/obj/PayRoll.Application.csproj.nuget.dgspec.json
+/PayRoll.Application/obj/PayRoll.Application.csproj.nuget.g.props
+/PayRoll.Application/obj/project.assets.json
+/PayRoll.Application/obj/project.nuget.cache
+/PayRoll.Infrastructure/obj/Debug/net6.0/PayRoll.Infrastructure.assets.cache
+/PayRoll.Infrastructure/obj/Debug/net6.0/PayRoll.Infrastructure.csproj.AssemblyReference.cache
+/PayRoll.Infrastructure/obj/Debug/net6.0/PayRoll.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/PayRoll.Infrastructure/obj/PayRoll.Infrastructure.csproj.nuget.dgspec.json
+/PayRoll.Infrastructure/obj/PayRoll.Infrastructure.csproj.nuget.g.props
+/PayRoll.Infrastructure/obj/project.assets.json
+/PayRoll.Infrastructure/obj/project.nuget.cache
+/PayRoll.Domain/obj/PayRoll.Domain.csproj.nuget.dgspec.json
+/PayRoll.Domain/obj/PayRoll.Domain.csproj.nuget.g.props
+/PayRoll.Domain/obj/project.assets.json
+/PayRoll.Domain/obj/project.nuget.cache
+/Host/obj/Debug/net6.0/Host.assets.cache
+/Host/obj/Debug/net6.0/Host.csproj.AssemblyReference.cache
